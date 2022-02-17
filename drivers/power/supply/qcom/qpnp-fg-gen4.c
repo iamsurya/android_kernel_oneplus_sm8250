@@ -17,6 +17,7 @@
 #include <linux/qpnp/qpnp-pbs.h>
 #include <linux/qpnp/qpnp-revid.h>
 #include <linux/thermal.h>
+/* @SS Hey Look at this! */
 #include "fg-core.h"
 #include "fg-reg.h"
 #include "fg-alg.h"
